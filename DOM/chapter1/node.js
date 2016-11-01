@@ -163,7 +163,7 @@ console.log(document.body.innerHTML);
  *
  * innerHTML调用了一个沉重且高消耗的HTML解析器，而文本节点生成几乎不足为虑，因此，省着点用innerHTML和它的小伙伴们
  *
- * innertext能意识到央视，不会返回隐藏元素的文本内容，而textcontent则会返回
+ * innertext能意识到样式，不会返回隐藏元素的文本内容，而textcontent则会返回
  */
 
 
